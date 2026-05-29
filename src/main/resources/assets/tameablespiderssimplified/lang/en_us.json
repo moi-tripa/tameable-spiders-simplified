@@ -1,0 +1,13 @@
+{
+  "itemGroup.tameablespiderssimplified": "Example Mod Tab",
+  "block.tameablespiderssimplified.example_block": "Example Block",
+  "item.tameablespiderssimplified.example_item": "Example Item",
+
+  "tameablespiderssimplified.configuration.title": "Tameable Spiders Simplified Configs",
+  "tameablespiderssimplified.configuration.section.tameablespiderssimplified.common.toml": "Tameable Spiders Simplified Configs",
+  "tameablespiderssimplified.configuration.section.tameablespiderssimplified.common.toml.title": "Tameable Spiders Simplified Configs",
+  "tameablespiderssimplified.configuration.items": "Item List",
+  "tameablespiderssimplified.configuration.logDirtBlock": "Log Dirt Block",
+  "tameablespiderssimplified.configuration.magicNumberIntroduction": "Magic Number Text",
+  "tameablespiderssimplified.configuration.magicNumber": "Magic Number"
+}
